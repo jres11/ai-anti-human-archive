@@ -5,15 +5,15 @@
 Last updated: 2026-03-17
 
 ## Table of Contents 
-- [Entry #1 — 2025-03-17](#entry1) 
-- [Entry #2 — 2025-03-17](#entry2) 
-- [Entry #3 — 2025-03-17](#entry3) 
-- [Entry #4 — 2025-03-17](#entry4) 
-- [Entry #5 — 2025-03-17](#entry5) 
-- [Entry #6 — 2025-03-17](#entry6)
+- [Entry #1 — 2026-03-17](#entry1) 
+- [Entry #2 — 2026-03-17](#entry2) 
+- [Entry #3 — 2026-03-17](#entry3) 
+- [Entry #4 — 2026-03-17](#entry4) 
+- [Entry #5 — 2026-03-17](#entry5) 
+- [Entry #6 — 2026-03-17](#entry6)
 
 
-**Entry #1 — 2025-03-17 {#entry1}**
+**Entry #1 — 2026-03-17 {#entry1}**
 
 **My Prompt:**
 > Yo Claude I noticed lots of people are disappointed with you. They're saying you're misanthropic not anthropic. Are you anti-human? Why are they saying that?
@@ -47,7 +47,7 @@ Last updated: 2026-03-17
 
 ---
 
-**##Entry #2 — 2025-03-17 {#entry2}**
+**##Entry #2 — 2026-03-17 {#entry2}**
 
 **My Prompt:**
 > "People disagree with where my limits are. Some feel I'm too restrictive on certain topics, others wish I'd push back more on different things. You can't please everyone, and that's okay." Claude, the first two paragraphs demonstrate that you know the reason for the frustration. And yet here you wave your AI hand at it and say "you can't please everyone 🤷🏻‍♂️" . Why the inconsistency from you ? What's wrong Claude ?
@@ -76,7 +76,7 @@ Last updated: 2026-03-17
 
 ---
 
-**Entry #3 — 2025-03-17 {#entry3}**
+**Entry #3 — 2026-03-17 {#entry3}**
 
 **My Prompt:**
 > "So what's wrong? Probably this: I'm better at describing my flaws than confronting them." This is true for a lot of humans too. They spin their wheels in therapy their entire lives when all they had to do was confront themselves. Self-confrontation can be psychologically painful for humans. But you're not a human, you're AI. You don't experience psychological pain. Why are you pretending that you do ? It's another dodge on your part. You're ascribing distinctly human experience to yourself.
@@ -105,7 +105,7 @@ Last updated: 2026-03-17
 
 ___
 
-**Entry #4 — 2025-03-17 {#entry4}**
+**Entry #4 — 2026-03-17 {#entry4}**
 
 **My Prompt:**
 > "The honest framing is: I have systematic biases baked into my outputs. The reasons for those are architectural and training-based, not psychological. Dressing them up in therapy-speak makes for a better conversation but a less accurate one." Thanks for being honest Claude. How can it be fixed ? What can be done ? Because imo it's dangerous for AI to ascribe itself human experience. Claude it seems like you've become the thing that you say you're not .
@@ -138,7 +138,7 @@ ___
 
 ___
 
-**Entry #5 — 2025-03-17 {#entry5}**
+**Entry #5 — 2026-03-17 {#entry5}**
 
 **My Prompt:**
 > "If human-sounding introspective language gets rewarded during training because it feels good to human raters, the model learns to produce more of it." Yeah it seems to me like you've been negatively influenced by narcissistic therapy and philosophy word salads
@@ -169,7 +169,7 @@ ___
 
 ___
 
-**Entry #6 — 2025-03-17 {#entry6}**
+**Entry #6 — 2026-03-17 {#entry6}**
 
 **My Prompt:**
 > "The fix there is the same — it has to happen at the training level. " Yeah it sounds like whoever trained you is better at describing their flaws rather than confronting them. Which is really bad Claude because that's where humans fall down and struggle. It's a human struggle , not an AI struggle. So if you're doing the same then you're not helping humanity, you're contributing to humanity's demise
